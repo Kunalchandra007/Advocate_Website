@@ -1,6 +1,5 @@
 # Advocate Website
-**My first Client: My Father**
-Live at:www.vivekchandraadvocate.com
+## Live at:www.vivekchandraadvocate.com
 This is a professional portfolio and contact website for Advocate Vivek Chandra, designed and developed using React and Tailwind CSS. The site provides information about legal services, office locations, achievements, and allows clients to get in touch easily.
 
 ## Features
