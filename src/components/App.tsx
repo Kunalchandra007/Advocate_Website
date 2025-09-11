@@ -359,7 +359,7 @@ function App() {
                     <li>Practices independently, providing personalized legal counsel and representation to private clients.</li>
                     <li>Serves as a panel advocate for the following organizations:</li>
                     <ul className="list-disc list-inside ml-6">
-                      <li>Union of India (As a Additional Central Government Counsel)</li>
+                      <li>Union of India(As a Senior Panel Counsel)</li>
                       <li>Municipal Corporation of Delhi</li>
                       <li>Delhi Development Authority</li>
                       <li>BSNL</li>
