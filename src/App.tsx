@@ -323,7 +323,6 @@ function App() {
                   <h3 className="text-xl font-semibold text-gray-900 mb-2">Practising as a panel advocate</h3>
                   <ul className="list-disc list-inside text-gray-700">
                     <li>Union of India</li>
-                    <li>Municipal Corporation of Delhi</li>
                     <li>Delhi Development Authority</li>
                     <li>BSNL</li>
                   </ul>
